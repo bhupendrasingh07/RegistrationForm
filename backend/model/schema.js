@@ -19,7 +19,7 @@ insta:{type:String,required:true},
 // photo
 imgdata1:{type:String,required:true},
 imgdata2:{type:String,required:true},
-// banner:{type:String,required:true}
+
 
 })
 
